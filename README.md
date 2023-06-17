@@ -1,8 +1,6 @@
 <h1>SİNEMA BİLET REZERVASYON UYGULAMASI</h1>
 
-Koltuk ve film seçildiğinde 
-kaç koltuk seçildiğini ve toplam ücreti yazan bir uygulamadır.
-Sayfa yenilense de bilgiler silinmez.
+JS ile basit rezervasyon uygulaması.
 
 
 <h2>EKRAN RESMİ</h2>
